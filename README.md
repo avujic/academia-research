@@ -36,7 +36,7 @@ Kontakt
 
 Za dodatne informacije o istraživanju možete kontaktirati istraživača na:
 
-[avujic@mianu.academy]
+[amit.vujic@fim.rs]
 
 Saglasnost
 
@@ -81,9 +81,9 @@ Contact Information
 
 For additional information regarding this study, please contact:
 
-[avujic@mianu.academy]
+[amit.vujic@fim.rs]
 
 Consent Statement
 
 I confirm that I have read and understood the information provided above, that my participation is voluntary, that my responses are anonymous, and that I voluntarily agree to participate in this research study.
--
+============================================================
