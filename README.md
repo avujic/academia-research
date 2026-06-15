@@ -6,6 +6,7 @@
 > [Google Scholar Profile](https://scholar.google.com/citations?user=99vEMzkAAAAJ&hl=en) · [Academia.edu Profile](https://bg.academia.edu/AmitVujic)
 
 **Citation Metrics:** 2 citations · h-index: 1 · i10-index: 0
+
 **Academia.edu:** 17 research papers (13 Papers + 4 Conference Presentations) · 28 Followers
 
 ---
