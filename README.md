@@ -91,7 +91,9 @@
   A. Vujić
   WIPO/PCT Patent, 2011
   [Google Patent (EN)](https://patents.google.com/patent/WO2013019135A2/en?oq=WO2013019135A2)
-  [Academia.edu (EN)](https://www.academia.edu/40504858/MULTISENSOR_INTELLIGENT_STREET_LIGHT_WITH_COMPLETE_SYSTEM) ·
+  
+  [Academia.edu (EN)](https://www.academia.edu/40504858/MULTISENSOR_INTELLIGENT_STREET_LIGHT_WITH_COMPLETE_SYSTEM)
+  
   [Academia.edu (FR)](https://www.academia.edu/68000592/Multisensor_intelligent_street_light_with_complete_system) — *Réverbère multicapteur intelligent équipé d'un système complet*
 
 ### 2010
