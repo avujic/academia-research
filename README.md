@@ -1,4 +1,4 @@
-# Research Publications — Amit Vujić
+# Research Publications [Amit Vujić]
 
 > School of Engineering Management, University Union – Nikola Tesla
 > Fields: FinTech · IoT · Smart City · Game Theory · Ecology · Real-time Systems · Robot Swarms · UAVs · Payment Systems
