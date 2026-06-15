@@ -54,6 +54,7 @@
 - **System and Procedure for Managing the Process of Verification of the Safety of Food and Agricultural Products**
   D. Dimitrijević, A. Vujić, A. Kočević, J. Bačić
   Patent: WO2017039473A1
+  [Google Patents](https://patents.google.com/patent/WO2017039473A1/pt)
 
 ### 2015
 
