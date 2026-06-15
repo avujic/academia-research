@@ -1,89 +1,122 @@
-INFORMACIJA ZA UČESNIKE ISTRAŽIVANJA I SAGLASNOST ZA UČEŠĆE
-============================================================
-Naziv istraživanja:
-Procena potencijala decentralizovanog modela „Socijalnog parkiranja“ u gradovima Republike Srbije
+# Research Publications — Amit Vujić
 
-Istraživač:
-Amit Vujic 
+> School of Engineering Management, University Union – Nikola Tesla
+> Fields: FinTech · IoT · Smart City · Game Theory · Ecology · Real-time Systems · Robot Swarms · UAVs · Payment Systems
+> [Google Scholar Profile](https://scholar.google.com/citations?user=99vEMzkAAAAJ&hl=en) · [Academia.edu Profile](https://bg.academia.edu/AmitVujic)
 
-Institucija:
-University Union Nikola Tesla, Belgrade, Serbia
+**Citation Metrics:** 2 citations · h-index: 1 · i10-index: 0
+**Academia.edu:** 17 research papers (13 Papers + 4 Conference Presentations) · 28 Followers
 
-Etičko odobrenje:
-Ovo istraživanje je pregledano i odobreno od strane nadležne etičke komisije pod brojem [].
+---
 
-Svrha istraživanja  
+## Publications
 
-Cilj ovog istraživanja je ispitivanje stavova građana o potencijalu decentralizovanog modela „Socijalnog parkiranja“, u kojem građani učestvuju kao aktivni korisnici i pružaoci prostornih resursa, kao alternativi tradicionalnim centralizovanim modelima upravljanja parkingom.
+### 2025
 
-Dobrovoljnost učešća
+- **The Impact of Institutional and Ecological Sustainability Systems on Resident Satisfaction Using Protected Area Management as an Example**
+  A. Vujić, I. Trišić, S. Štetić, I. Skenderović, F. Nechita, E. Ujkanović, A. Ćatović, et al.
+  *Land*, 14(3), 544. *(Cited by 2)*
+  [Academia.edu](https://www.academia.edu/128899481/The_Impact_of_Institutional_and_Ecological_Sustainability_Systems_on_Resident_Satisfaction_Using_Protected_Area_Management_as_an_Example)
 
-Vaše učešće u istraživanju je potpuno dobrovoljno. Možete prekinuti popunjavanje upitnika u bilo kom trenutku pre njegovog slanja bez ikakvih posledica.
+- **Sustainable Activation of Diaspora-Owned Housing for Tourism – Case of Šar Mountain Corridor**
+  A. Vujić
+  IRASA International Scientific Conference SETI VII 2025, Book of Proceedings
+  DOI: [10.62982/seti07.amit.57](https://doi.org/10.62982/seti07.amit.57), 1(1), 625–636
+  [Academia.edu](https://www.academia.edu/145518419/SUSTAINABLE_ACTIVATION_OF_DIASPORA_OWNED_HOUSING_FOR_TOURISM_CASE_OF_%C5%A0AR_MOUNTAIN_CORRIDOR)
 
-Anonimnost i zaštita podataka
+- **Universal Vending Machine with Magnetic Product Holders**
+  A. Vujić, V. Ristić
+  Republic of Serbia, Intellectual Property Gazette
 
-Ovaj upitnik ne prikuplja ime, prezime, adresu elektronske pošte, broj telefona niti druge direktne identifikacione podatke učesnika. Odgovori će biti analizirani isključivo u agregiranom obliku i koristiće se samo za naučnoistraživačke svrhe.
+- **Dynamic Traffic Lanes Strategy Management in Smart City**
+  A. Vujić, V. Tomašević, V. Ristić, M. Maksin
+  XXI International May Conference on Strategic Management – IMCSM25
+  [Academia.edu](https://www.academia.edu/144842403/DYNAMIC_TRAFFIC_LANES_STRATEGY_MANAGEMENT_IN_SMART_CITY)
 
-Rizici i koristi
+### 2023
 
-Ne očekuju se značajni rizici povezani sa učešćem u ovom istraživanju. Rezultati istraživanja mogu doprineti razvoju novih pristupa upravljanju urbanim parking resursima i unapređenju javnih politika u oblasti mobilnosti.
+- **Smart City Ecology Boost Based on Eco Cryptocurrency Introduction**
+  A. Vujić
+  IRASA International Scientific Conference, SETI V 2023, p. 91
 
-Korišćenje rezultata
+### 2018
 
-Prikupljeni podaci koristiće se za izradu naučnih radova, akademskih publikacija, konferencijskih prezentacija i drugih oblika naučne diseminacije rezultata.
+- **Primena IoT i Smart City Tehnologije u Cilju Unapređenja Bezbednosti Saobraćaja / Application of IoT Smart City Technology in Improving Transport Security**
+  V. Ristić, A. Vujić, M. Maksin
+  Zbornik radova, 8(1), 82–88
+  Also presented as: *Application of the IoT Smart City Technology in Transport Security Improvement*, 17th International Conference – International University Travnik, 2018
+  [Academia.edu](https://www.academia.edu/40490443/APPLICATION_OF_THE_IOT_SMART_CITY_TECHNOLOGY_IN_TRANSPORT_SECURITY_IMPROVEMENT)
 
-Kontakt
+### 2017
 
-Za dodatne informacije o istraživanju možete kontaktirati istraživača na:
+- **System and Procedure for Managing the Process of Verification of the Safety of Food and Agricultural Products**
+  D. Dimitrijević, A. Vujić, A. Kočević, J. Bačić
+  Patent: WO2017039473A1
 
-[amit.vujic@fim.rs]
+### 2015
 
-Saglasnost
+- **IoT System and Platform for Gambling Industry**
+  A. Vujić, A. Kočević
+  INFOTECH 2015, 1 (ISBN 978-86-82831-21-1)
 
-Potvrđujem da sam pročitao/la informacije o istraživanju, da razumem svrhu i način sprovođenja istraživanja, da su moji odgovori anonimni i da dobrovoljno pristajem da učestvujem u ovom istraživanju.
+### 2014
 
-PARTICIPANT INFORMATION SHEET AND INFORMED CONSENT
-============================================================
-Study Title:
-Assessment of the Potential of a Decentralized “Social Parking” Model in Cities of the Republic of Serbia
+- **Smart Parking in Smart City**
+  A. Vujić
+  AIIT – International Conference on Applied Internet and Information Technologies
+  [Academia.edu](https://www.academia.edu/40490499/Smart_Parking_in_Smart_City)
 
-Researcher:
-Amit Vujic
+### 2013
 
+- **Patrol Taxi Card – Cross Loyalty, Smart City Project Implementation**
+  A. Vujić
+  E-Trgovina 2013
 
-Institutional Affiliation:
-University Union Nikola Tesla, Belgrade, Serbia
+### 2012
 
-Ethics Approval:
-This study has been reviewed and approved by the competent Ethics Committee under approval number [].
+- **Vehicle Protection System**
+  A. Vujić
+  Republic of Serbia, Intellectual Property Gazette, 2 (ISSN 2217-9143), p. 29
 
-Purpose of the Study
+- **Cross Loyalty MNVO Project Implementation**
+  A. Vujić
+  SMI 7th CEE Card Markets
 
-The purpose of this study is to investigate public attitudes regarding the potential implementation of a decentralized “Social Parking” model, where citizens participate as active users and providers of spatial resources, as an alternative to traditional centralized parking management systems.
+### 2011
 
-Voluntary Participation
+- **WO2013019135A2 – Multisensor Intelligent Street Light with Complete System**
+  A. Vujić
+  WIPO/PCT Patent, 2011
+  [Academia.edu (EN)](https://www.academia.edu/40504858/MULTISENSOR_INTELLIGENT_STREET_LIGHT_WITH_COMPLETE_SYSTEM) · [Academia.edu (FR)](https://www.academia.edu/68000592/Multisensor_intelligent_street_light_with_complete_system) — *Réverbère multicapteur intelligent équipé d'un système complet*
 
-Your participation in this study is entirely voluntary. You may discontinue participation at any time before submitting the questionnaire without any consequences.
+### 2010
 
-Anonymity and Data Protection
+- **eHealth Tehnologija i Primena u Perinatologiji**
+  A. Vujić, N. Milinčić, N. Stanišić, P. Čanković
+  Prvi Kongres Perinatalne Medicine, Beograd
+  [Academia.edu](https://www.academia.edu/40490990/eHealth_tehnologija_i_primena_u_perinatologiji)
 
-This questionnaire does not collect names, email addresses, telephone numbers, or any other direct personal identifiers. Responses will be analyzed only in aggregated form and used exclusively for scientific and research purposes.
+### 2009
 
-Risks and Benefits
+- **blueCUBE – Converged Mobile Technologies**
+  A. Vujić
+  The Best Technological Innovation, Serbia, NTI 2009
+  Also published as: *blueCUBE - Konvergentne Mobilne Tehnologije*, NTI 2009 ([Academia.edu](https://www.academia.edu/40523099/blueCUBE_Konvergentne_Mobilne_Tehnologije_NTI_2009_))
 
-No significant risks are anticipated as a result of participation in this study. The findings may contribute to the development of innovative approaches to urban parking management and mobility-related public policy.
+### 2000
 
-Use of Research Results
+- **E-BANK: Prvi Jugoslovenski Sajt za Elektronsku Trgovinu sa Kompletnom Uslugom**
+  D. Dimitrijević, T. Apostolska, A. Vujić, P. Nikolić
+  JISA INFO
 
-The collected data may be used in scientific articles, academic publications, conference presentations, and other scholarly dissemination activities.
+---
 
-Contact Information
+## Co-authors
 
-For additional information regarding this study, please contact:
-
-[amit.vujic@fim.rs]
-
-Consent Statement
-
-I confirm that I have read and understood the information provided above, that my participation is voluntary, that my responses are anonymous, and that I voluntarily agree to participate in this research study.
-============================================================
+- Florin Nechita — Professor, Transilvania University of Brașov
+- Azra Ćatović — Professor of Economics, International University of Novi Pazar
+- Dr. Igor Trišić — Research Associate, University of Belgrade
+- Ibro Skenderović — International University of Novi Pazar
+- Marija Maksin — Institute of Architecture and Urbanism of Serbia
+- Vladimir Tomašević — Belgrade School of Engineering Management
+- Vladica Ristić — Faculty of Engineering Management (FIM)
