@@ -1,6 +1,6 @@
 # Research Publications [Amit Vujić]
 
-> School of Engineering Management, University Union – Nikola Tesla
+>  Belgrade School of Engineering Management, University Union – Nikola Tesla
 > Fields: FinTech · IoT · Smart City · Game Theory · Ecology · Real-time Systems · Robot Swarms · UAVs · Payment Systems
 > [Google Scholar Profile](https://scholar.google.com/citations?user=99vEMzkAAAAJ&hl=en) · [Academia.edu Profile](https://bg.academia.edu/AmitVujic)
 
